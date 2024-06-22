@@ -38,6 +38,8 @@ function App() {
         </Row>
       </Container>
     </main>
+    <ThemeSwitch/>
+    <ThemeSwitcher/>
     </>
   )
 }
